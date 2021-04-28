@@ -1,25 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to What Michelle is learning during Nerd Time!
 
-You can use the [editor on GitHub](https://github.com/learninginstigator/learninstigator.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If we're true lovers of this life, then we must act accordingly...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Low Down
 
-### Markdown
+This is where I will document what I'm learning every week:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+On Tuesday, April 27th, 2021, Cory taught me how to hack into Bitcoin servers to build my empire whose goal is world domination. Thanks Cory!
 
 ```markdown
-Syntax highlighted code block
+Topics to potentially write about
 
-# Header 1
-## Header 2
-### Header 3
+# My Thoughts
+## on
+### World Domination
 
-- Bulleted
-- List
+- This is a random Bulleted
+- List made randomly on my page
 
-1. Numbered
+1. This is a Numbered
 2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
