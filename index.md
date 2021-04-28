@@ -24,7 +24,7 @@ Topics to potentially write about
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Here's where I like to go for random news](https://digg.com/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
