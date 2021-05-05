@@ -7,11 +7,27 @@
             <input type="text" name="adjective2" placeholder="adjective" />
         </div>
         <div>
-            <label for="pluralnoun">Plural Noun/label>
-            <input type="text" name="pluralnoun" placeholder="pluralnoun" />
+            <label for="pluralnoun">Plural Noun</label>
+            <input type="text" name="pluralnoun" placeholder="plural noun"/>
         </div>
+        <div>
+            <label for="noun">Noun1</label>
+            <input type="text" name="noun" placeholder="noun"/>
+        </div>
+        <div>
+            <label for="adjective3">Adjective</label>
+            <input type="text" name="adjective3" placeholder="adjective" />
+        </div>
+        <div>
+            <label for="PartoftheBody">Part of the Body</label>
+            <input type="text" name="PartoftheBody" placeholder="PartoftheBody"/>
+        </div>
+        
+
+
         <!-- Button for the user to click when submiting the form -->
         <input type="submit" />
+        
     </form>
 </section>
 
