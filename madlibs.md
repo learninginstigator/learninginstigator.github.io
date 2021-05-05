@@ -11,7 +11,7 @@
             <input type="text" name="pluralnoun" placeholder="plural noun"/>
         </div>
         <div>
-            <label for="noun">Noun1</label>
+            <label for="noun1">Noun</label>
             <input type="text" name="noun" placeholder="noun"/>
         </div>
         <div>
@@ -20,9 +20,9 @@
         </div>
         <div>
             <label for="PartoftheBody">Part of the Body</label>
-            <input type="text" name="PartoftheBody" placeholder="PartoftheBody"/>
+            <input type="text" name="Part of the Body" placeholder="Part of the Body"/>
         </div>
-        
+
 
 
         <!-- Button for the user to click when submiting the form -->
