@@ -72,7 +72,7 @@
 length: 1
 __proto__: Array(0)
 
-The Force is a mystical, <span id="adjective1"></span> power.
+The Force is a mystical, <span id="Array(0)"></span> power.
 
 
 <p>THE POWER OF THE FORCE
