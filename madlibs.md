@@ -6,6 +6,10 @@
             <label for="adjective2">Adjective</label>
             <input type="text" name="adjective2" placeholder="adjective" />
         </div>
+        <div>
+            <label for="pluralnoun">Plural Noun/label>
+            <input type="text" name="pluralnoun" placeholder="pluralnoun" />
+        </div>
         <!-- Button for the user to click when submiting the form -->
         <input type="submit" />
     </form>
@@ -19,7 +23,7 @@
 
     <p>
 <p>THE POWER OF THE FORCE
-The Force is a mystical, <span id="adjective2"></span> power. As Jedi Master Obi-Wan Kenobi once said, “The Force is an energy field, created by all living (PLURAL NOUN), that surrounds us, penetrates us, and binds the (NOUN).” Using the power of the Force, a Jedi can do many (ADJECTIVE) things, like using the Force to exercise (PART OF THE BODY) control over (ADJECTIVE)-minded (PLURAL NOUN). A Jedi can also use the Force to move objects with their (PART OF THE BODY). It doesn’t matter how (ADJECTIVE) these objects are; it only matters how (ADVERB) the Jedi believes in the Force. Most importantly, the Force teaches a Jedi to rely on their feelings. As Obi-Wan Kenobi told his student Luke (NOUN)-Walker: “Your (PART OF THE BODY - PLURAL) can deceive you. Don’t trust them.” Instead, a Jedi should (ADVERB) trust the Force.
+The Force is a mystical, <span id="adjective2"></span> power. As Jedi Master Obi-Wan Kenobi once said, “The Force is an energy field, created by all living <span id="pluralnoun"></span>, that surrounds us, penetrates us, and binds the (NOUN).” Using the power of the Force, a Jedi can do many (ADJECTIVE) things, like using the Force to exercise (PART OF THE BODY) control over (ADJECTIVE)-minded (PLURAL NOUN). A Jedi can also use the Force to move objects with their (PART OF THE BODY). It doesn’t matter how (ADJECTIVE) these objects are; it only matters how (ADVERB) the Jedi believes in the Force. Most importantly, the Force teaches a Jedi to rely on their feelings. As Obi-Wan Kenobi told his student Luke (NOUN)-Walker: “Your (PART OF THE BODY - PLURAL) can deceive you. Don’t trust them.” Instead, a Jedi should (ADVERB) trust the Force.
 
 A Mad Lib
 (from the ‘Star Wars Mad Libs’ book by Roger Price and Leonard Stern)
