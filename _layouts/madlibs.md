@@ -11,6 +11,7 @@
     </form>
 </section>
 
+ 
 <!-- The madlib we will populate -->
 <section id="madlib">
     <!-- we wrap the mad lib in a paragraph tag, inside of this we will need something to place the text into that the user submits. I am using a span because it displays on the page inline instead of something that would cause a linebreak to happen, such as another p tag or div.  The id is a tag we can use to specify which field this is, I am naming it the same as the name on the form input to keep things simple, it could be anything as long as it is unique. -->
