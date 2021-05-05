@@ -55,9 +55,6 @@
             <input type="text" name="adverb2" placeholder="adverb"/>
         </div>
 
-
-<div>
-</div>
         <!-- Button for the user to click when submiting the form -->
         <input type="submit" />
         
